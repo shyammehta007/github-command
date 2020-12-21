@@ -1,0 +1,26 @@
+.in1{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: auto 0;
+    background-color: yellow;
+}
+
+.in2{
+    width: 200px;
+    height: 200px;
+    margin: auto 0;
+    background-color: tomato;
+}
+
+.in3{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: steelblue;
+    left:0px;
+}
+
+body{
+    width: 100%;
+}
